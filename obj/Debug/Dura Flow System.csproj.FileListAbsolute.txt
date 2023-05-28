@@ -1,0 +1,96 @@
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\bin\Debug\Dura Flow System.exe
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\bin\Debug\Dura Flow System.pdb
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura Flow System.csprojAssemblyReference.cache
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Form1.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Properties.Resources.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura Flow System.csproj.GenerateResource.cache
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura Flow System.csproj.CoreCompileInputs.cache
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura Flow System.exe
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura Flow System.pdb
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Dashboard.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.StockManage.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.RequiredItems.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.MaterialRequest.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Supplier.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.PurchaseOrder.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.GRN.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.ProductionDepart.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.CompanyGoods.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.B2B.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.SaleReturn.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.salegoods.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Sales.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Gatepass.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.staffManage.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Transport.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Leave.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Attendance.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.EmployeeRegister.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.AssignGatepass.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.TransportManage.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura Flow System.csproj.AssemblyReference.cache
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Gatepass.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.staffManage.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Transport.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Leave.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Attendance.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.EmployeeRegister.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.AssignGatepass.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.TransportManage.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.B2B.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.SaleReturn.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.salegoods.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.MaterialRequest.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Sales.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.ProductionDepart.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.CompanyGoods.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Supplier.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.PurchaseOrder.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.GRN.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.StockManage.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.dashboard.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Form1.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Properties.Resources.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.RequiredItems.resources
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura Flow System.csproj.GenerateResource.cache
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura Flow System.csproj.CoreCompileInputs.cache
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura Flow System.exe
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\obj\Debug\Dura Flow System.pdb
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\bin\Debug\Dura Flow System.exe
+C:\Users\It Zone\Desktop\GID-43\dbfinalgid-43\Dura Flow System\bin\Debug\Dura Flow System.pdb
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura Flow System.csproj.AssemblyReference.cache
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Gatepass.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.staffManage.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Transport.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Leave.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Attendance.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.EmployeeRegister.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.AssignGatepass.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.TransportManage.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.B2B.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.SaleReturn.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.salegoods.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.MaterialRequest.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Sales.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.ProductionDepart.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.CompanyGoods.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Supplier.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.PurchaseOrder.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.GRN.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.StockManage.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.dashboard.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Form1.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Properties.Resources.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.RequiredItems.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura Flow System.csproj.GenerateResource.cache
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura Flow System.csproj.CoreCompileInputs.cache
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura Flow System.exe
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura Flow System.pdb
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\bin\Debug\Dura Flow System.exe
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\bin\Debug\Dura Flow System.pdb
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Vendor.resources
+C:\Users\It Zone\Desktop\final\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Ven.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Ven.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.Vendor.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.bill.resources
+C:\Users\uswa nasir\Desktop\dbfinalgid-43\Dura Flow System\obj\Debug\Dura_Flow_System.reports.resources
